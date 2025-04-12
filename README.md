@@ -1,4 +1,3 @@
-# spring-data-pageable-example
 # Spring Data Pageable Example
 
 This is a sample Spring Boot project that demonstrates how to implement pagination and sorting using Spring Data JPA's `Pageable` interface.
