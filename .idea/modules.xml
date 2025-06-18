@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-data-pageable-example.iml" filepath="$PROJECT_DIR$/.idea/spring-data-pageable-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-data-pageable-example_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-data-pageable-example_.main.iml" />
     </modules>
   </component>
 </project>

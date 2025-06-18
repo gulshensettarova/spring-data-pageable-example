@@ -24,6 +24,7 @@ The example uses a simple `Book` entity with fields like `title`, `author`, and 
 - Spring Data JPA
 - PostgreSQL
 - Gradle
+- Liqubase
 
 ## ▶️ Example Endpoints
 
